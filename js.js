@@ -7,7 +7,6 @@ let targetDiv;
 let isHolding = false
 let eraser = document.querySelector("#Eraser")
 let clear = document.querySelector("#Clear")
-let dark = document.querySelector("#Dark")
 let brush = document.querySelector("#Brush")
 let brushHolding = false ;
 let earserClicked = false ;
