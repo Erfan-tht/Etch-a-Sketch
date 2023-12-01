@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+/*.gridDiv {
+    width: 16px;
+    height: 16px; ;
+    background-color: beige;
+    border: 1px;
+    border-style: none;
+}*/
+  
+
+.containers {
+    height: 512px;
+    width: 512px;
+    border: 1px;
+    border-style: none;
+    box-shadow: 1px 1px 1px 1px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: start;
+    align-self: center;
+}
+.itemHolder {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
